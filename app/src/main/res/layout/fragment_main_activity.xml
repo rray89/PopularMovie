@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/gridview_movie_poster"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:numColumns="auto_fit"
+    android:columnWidth="@dimen/movie_poster_grid_width"
+    android:verticalSpacing="@dimen/movie_poster_spacing"
+    android:horizontalSpacing="@dimen/movie_poster_spacing"
+    android:padding="@dimen/movie_poster_spacing"
+    android:drawSelectorOnTop="true">
+
+</GridView>

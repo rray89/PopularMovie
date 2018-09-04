@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PopularMovie</string>
+    <string name="movie_poster_description">Movie poster thumbnail</string>
+    <string name="action_sort_by">Sort by</string>
+    <string name="action_sort_by_popularity">Most Popular</string>
+    <string name="action_sort_by_rating">Highest Rated</string>
+    <string name="title_activity_detail">Movie Details</string>
+    <string name="vote_average">Average Vote</string>
+    <string name="release_date">Released Date</string>
+    <string name="movie_detail_image_description">Back drop of movie</string>
 </resources>
